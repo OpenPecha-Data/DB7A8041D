@@ -1,0 +1,22 @@
+id: DB7A8041D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:47:19+00:00'
+last_modified: '2022-05-29T08:54:15.133201+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    2c84:
+      image_group_id: I1PD95928
+      title: ཚིགས་སུ་བཅད་པའི་དོན་བསྡུས་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས།
+      total_pages: 1296
+      order: 83
+      base_file: 2c84.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
